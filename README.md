@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Camila Furdek
+I am a Computer Engineering student seeking my first professional opportunity to continue growing and apply my knowledge to real-world problems.
 
-<!--
-**camilafurdek/camilafurdek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects:</h2>
 
-Here are some ideas to get you started:
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [Weather app.](https://github.com/camilafurdek/Weather-APP)
+
+  - [To do list app.](https://github.com/camilafurdek/Todo-APP)
+ 
+- C ++
+
+  - [Expense tracker.](https://github.com/camilafurdek/Expense-tracker)
