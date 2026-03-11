@@ -5,7 +5,7 @@ I am a Computer Engineering student seeking my first professional opportunity to
 
 - [Chess Game.](https://github.com/camilafurdek/Chess_Game)
 
-- [Weather app.](https://github.com/camilafurdek/Weather-APP)
+- [Weather app.](https://github.com/camilafurdek/Weather-APP/tree/main)
 
 - [To do list app.](https://github.com/camilafurdek/Todo-APP)
  
