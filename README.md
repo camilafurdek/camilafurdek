@@ -3,6 +3,8 @@ I am a Computer Engineering student seeking my first professional opportunity to
 
 <h2>Projects:</h2>
 
+- [Chess Game.](https://github.com/camilafurdek/Chess_Game)
+
 - [Weather app.](https://github.com/camilafurdek/Weather-APP)
 
 - [To do list app.](https://github.com/camilafurdek/Todo-APP)
